@@ -1,7 +1,7 @@
 public class prime{
     public static void main(String[] args)
     {
-        System.out.println("prime Numbers betwEen 2 aNd 100:");
+        System.out.println("prime Numbers betwEen 2 aND 100:");
         for(int num=2;num<=100;num++){
             boolean isPrime=true;
             for(int i=2;i<=Math.sqrt(num);i++){
